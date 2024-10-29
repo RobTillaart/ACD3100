@@ -14,7 +14,7 @@
 
 
 #define ACD3100_LIB_VERSION         (F("0.1.0"))
-#define ACD3100_DEFAULT_ADDRESS     0x54
+#define ACD3100_DEFAULT_ADDRESS     0x2A          //  0x54 ?
 
 //  ERROR CODES
 //  values <> 0 are errors.
@@ -69,7 +69,7 @@ public:
 
 
 private:
-  uint8_t  _address = 0x2A;       //  fixed
+  uint8_t  _address = ACD3100_DEFAULT_ADDRESS;       //  fixed
   TwoWire* _wire;
 
   int      _command(uint8_t * arr, uint8_t size);
