@@ -2,8 +2,8 @@
 //    FILE: ACD3100.cpp
 //  AUTHOR: Rob Tillaart
 //    DATE: 2024-10-29
-// VERSION: 0.1.0
-// PURPOSE: Arduino library for for I2C ACD3100 CO2 sensor
+// VERSION: 0.1.1
+// PURPOSE: Arduino library for I2C ACD3100 CO2 sensor
 //     URL: https://github.com/RobTillaart/ACD3100
 //          http://www.aosong.com/products-220.html
 

@@ -81,11 +81,11 @@ and any other applications that may cause personal injury due to the product's f
 ```
              TOPVIEW ACD3100
          +--------------------+
-   pin 6 | o                  |
-   pin 5 | o                o |  pin 1
-         |                  o |  pin 2
-         |                  o |  pin 3
-         |                  o |  pin 4
+   pin 5 | o                  |
+         | o                o |  pin 1
+         | o                o |  pin 2
+         | o                o |  pin 3
+         | o                o |  pin 4
          |                    |
          +--------------------+
 ```
