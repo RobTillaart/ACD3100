@@ -7,8 +7,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 
 ## [0.1.1] - 2024-10-29
-- update documentation
-- 
+- fix #4, remove calibration mode (not supported as in ACD10)
+- fix #2, update documentation
+- fix **readFactorySet()** test
 
 ## [0.1.0] - 2024-10-29
 - initial version

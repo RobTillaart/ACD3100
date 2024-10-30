@@ -50,9 +50,6 @@ public:
 
 
   //       CALIBRATION  (! read datasheet)
-  //       0 = manual  1 = auto
-  bool     setCalibrationMode(uint8_t mode);
-  uint8_t  readCallibrationMode();
   bool     setManualCalibration(uint16_t value);
   uint16_t readManualCalibration();
 
